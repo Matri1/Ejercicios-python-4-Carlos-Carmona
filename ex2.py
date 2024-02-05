@@ -1,5 +1,5 @@
 while True:
-    palabra = input("Dime de que color es el sol?: ")
-    if palabra.lower() == "naranja":
+    palabraa = input("Dime de que color es el sol?: ")
+    if palabraa.lower() == "naranja":
         print("¡Has dejado el bucle con éxito!")
         break
